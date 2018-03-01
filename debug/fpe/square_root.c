@@ -3,6 +3,7 @@
 #ifdef TRAPFPE
 #include "fpe_x87_sse.h"
 #endif
+#include <math.h>
 
 int main(int argc, char *argv[])
 {
